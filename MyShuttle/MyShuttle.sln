@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShuttle.Web", "MyShuttle\MyShuttle.Web.csproj", "{1361CDA1-E16B-4C72-9E91-2B6AE70D5E40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyShuttle.Web", "MyShuttle\MyShuttle.Web.csproj", "{1361CDA1-E16B-4C72-9E91-2B6AE70D5E40}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D0414E28-07EE-49E7-A66A-5A4E0A50F5E8} = {D0414E28-07EE-49E7-A66A-5A4E0A50F5E8}
+		{41194EDD-514F-4938-86D3-518C3C99488A} = {41194EDD-514F-4938-86D3-518C3C99488A}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShuttle.Model", "MyShuttle.Model\MyShuttle.Model.csproj", "{D0414E28-07EE-49E7-A66A-5A4E0A50F5E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShuttle.Data", "MyShuttle.Data\MyShuttle.Data.csproj", "{41194EDD-514F-4938-86D3-518C3C99488A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyShuttle.Data", "MyShuttle.Data\MyShuttle.Data.csproj", "{41194EDD-514F-4938-86D3-518C3C99488A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BE199D7C-80EE-4037-94AE-3E4C2920E1C4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{FE3C6A26-712E-446D-BE2B-311D1338A4A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShuttle.IntegrationTests", "MyShuttle.IntegrationTests\MyShuttle.IntegrationTests.csproj", "{A19702A5-98CA-49CF-8F8B-2D2F873575AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyShuttle.IntegrationTests", "MyShuttle.IntegrationTests\MyShuttle.IntegrationTests.csproj", "{A19702A5-98CA-49CF-8F8B-2D2F873575AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

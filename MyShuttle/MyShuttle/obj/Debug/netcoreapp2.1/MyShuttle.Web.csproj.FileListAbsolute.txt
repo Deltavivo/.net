@@ -12,3 +12,8 @@ C:\Users\Administrator\source\repos\MyShuttle\MyShuttle\obj\Debug\netcoreapp2.1\
 C:\Users\Administrator\source\repos\MyShuttle\MyShuttle\obj\Debug\netcoreapp2.1\MyShuttle.Web.RazorTargetAssemblyInfo.cache
 C:\Users\Administrator\source\repos\MyShuttle\MyShuttle\obj\Debug\netcoreapp2.1\MyShuttle.Web.dll
 C:\Users\Administrator\source\repos\MyShuttle\MyShuttle\obj\Debug\netcoreapp2.1\MyShuttle.Web.pdb
+C:\Users\Administrator\source\repos\MyShuttle\MyShuttle\bin\Debug\netcoreapp2.1\MyShuttle.Data.dll
+C:\Users\Administrator\source\repos\MyShuttle\MyShuttle\bin\Debug\netcoreapp2.1\MyShuttle.Model.dll
+C:\Users\Administrator\source\repos\MyShuttle\MyShuttle\bin\Debug\netcoreapp2.1\MyShuttle.Data.pdb
+C:\Users\Administrator\source\repos\MyShuttle\MyShuttle\bin\Debug\netcoreapp2.1\MyShuttle.Model.pdb
+C:\Users\Administrator\source\repos\MyShuttle\MyShuttle\obj\Debug\netcoreapp2.1\MyShuttle.Web.csproj.CopyComplete

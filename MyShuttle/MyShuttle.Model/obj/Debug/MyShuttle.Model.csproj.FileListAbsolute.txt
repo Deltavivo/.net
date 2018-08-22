@@ -153,3 +153,4 @@ C:\Users\Administrator\source\repos\MyShuttle\MyShuttle.Model\bin\Debug\System.X
 C:\Users\Administrator\source\repos\MyShuttle\MyShuttle.Model\obj\Debug\MyShuttle.Model.csproj.CopyComplete
 C:\Users\Administrator\source\repos\MyShuttle\MyShuttle.Model\obj\Debug\MyShuttle.Model.dll
 C:\Users\Administrator\source\repos\MyShuttle\MyShuttle.Model\obj\Debug\MyShuttle.Model.pdb
+C:\Users\Administrator\source\repos\MyShuttle\MyShuttle.Model\obj\Debug\MyShuttle.Model.csprojAssemblyReference.cache
