@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\WebApplicationPipeline\WebApplicationPipeline\bin\Debug\netcoreapp2.1\WebApplicationPipeline.deps.json
+C:\Users\Administrator\source\repos\WebApplicationPipeline\WebApplicationPipeline\bin\Debug\netcoreapp2.1\WebApplicationPipeline.runtimeconfig.json
+C:\Users\Administrator\source\repos\WebApplicationPipeline\WebApplicationPipeline\bin\Debug\netcoreapp2.1\WebApplicationPipeline.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\WebApplicationPipeline\WebApplicationPipeline\bin\Debug\netcoreapp2.1\WebApplicationPipeline.dll
+C:\Users\Administrator\source\repos\WebApplicationPipeline\WebApplicationPipeline\bin\Debug\netcoreapp2.1\WebApplicationPipeline.pdb
+C:\Users\Administrator\source\repos\WebApplicationPipeline\WebApplicationPipeline\obj\Debug\netcoreapp2.1\WebApplicationPipeline.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WebApplicationPipeline\WebApplicationPipeline\obj\Debug\netcoreapp2.1\WebApplicationPipeline.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\WebApplicationPipeline\WebApplicationPipeline\obj\Debug\netcoreapp2.1\WebApplicationPipeline.RazorAssemblyInfo.cs
+C:\Users\Administrator\source\repos\WebApplicationPipeline\WebApplicationPipeline\obj\Debug\netcoreapp2.1\WebApplicationPipeline.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WebApplicationPipeline\WebApplicationPipeline\obj\Debug\netcoreapp2.1\WebApplicationPipeline.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WebApplicationPipeline\WebApplicationPipeline\obj\Debug\netcoreapp2.1\WebApplicationPipeline.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\source\repos\WebApplicationPipeline\WebApplicationPipeline\obj\Debug\netcoreapp2.1\WebApplicationPipeline.dll
+C:\Users\Administrator\source\repos\WebApplicationPipeline\WebApplicationPipeline\obj\Debug\netcoreapp2.1\WebApplicationPipeline.pdb

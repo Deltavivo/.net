@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\WebApplicationMiddleware\WebApplicationMiddleware\bin\Debug\netcoreapp2.1\WebApplicationMiddleware.deps.json
+C:\Users\Administrator\source\repos\WebApplicationMiddleware\WebApplicationMiddleware\bin\Debug\netcoreapp2.1\WebApplicationMiddleware.runtimeconfig.json
+C:\Users\Administrator\source\repos\WebApplicationMiddleware\WebApplicationMiddleware\bin\Debug\netcoreapp2.1\WebApplicationMiddleware.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\WebApplicationMiddleware\WebApplicationMiddleware\bin\Debug\netcoreapp2.1\WebApplicationMiddleware.dll
+C:\Users\Administrator\source\repos\WebApplicationMiddleware\WebApplicationMiddleware\bin\Debug\netcoreapp2.1\WebApplicationMiddleware.pdb
+C:\Users\Administrator\source\repos\WebApplicationMiddleware\WebApplicationMiddleware\obj\Debug\netcoreapp2.1\WebApplicationMiddleware.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\WebApplicationMiddleware\WebApplicationMiddleware\obj\Debug\netcoreapp2.1\WebApplicationMiddleware.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WebApplicationMiddleware\WebApplicationMiddleware\obj\Debug\netcoreapp2.1\WebApplicationMiddleware.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\WebApplicationMiddleware\WebApplicationMiddleware\obj\Debug\netcoreapp2.1\WebApplicationMiddleware.RazorAssemblyInfo.cs
+C:\Users\Administrator\source\repos\WebApplicationMiddleware\WebApplicationMiddleware\obj\Debug\netcoreapp2.1\WebApplicationMiddleware.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WebApplicationMiddleware\WebApplicationMiddleware\obj\Debug\netcoreapp2.1\WebApplicationMiddleware.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WebApplicationMiddleware\WebApplicationMiddleware\obj\Debug\netcoreapp2.1\WebApplicationMiddleware.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\source\repos\WebApplicationMiddleware\WebApplicationMiddleware\obj\Debug\netcoreapp2.1\WebApplicationMiddleware.dll
+C:\Users\Administrator\source\repos\WebApplicationMiddleware\WebApplicationMiddleware\obj\Debug\netcoreapp2.1\WebApplicationMiddleware.pdb

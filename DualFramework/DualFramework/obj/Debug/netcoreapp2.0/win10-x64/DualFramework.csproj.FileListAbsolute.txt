@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\bin\Debug\netcoreapp2.0\win10-x64\hostpolicy.dll
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\bin\Debug\netcoreapp2.0\win10-x64\hostfxr.dll
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\bin\Debug\netcoreapp2.0\win10-x64\DualFramework.exe
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\bin\Debug\netcoreapp2.0\win10-x64\DualFramework.deps.json
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\bin\Debug\netcoreapp2.0\win10-x64\DualFramework.runtimeconfig.json
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\bin\Debug\netcoreapp2.0\win10-x64\DualFramework.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\bin\Debug\netcoreapp2.0\win10-x64\DualFramework.dll
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\bin\Debug\netcoreapp2.0\win10-x64\DualFramework.pdb
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\obj\Debug\netcoreapp2.0\win10-x64\DualFramework.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\obj\Debug\netcoreapp2.0\win10-x64\DualFramework.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\obj\Debug\netcoreapp2.0\win10-x64\DualFramework.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\obj\Debug\netcoreapp2.0\win10-x64\DualFramework.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\obj\Debug\netcoreapp2.0\win10-x64\DualFramework.dll
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\obj\Debug\netcoreapp2.0\win10-x64\DualFramework.pdb

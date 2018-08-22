@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\obj\Debug\netcoreapp2.1\DualFramework.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\obj\Debug\netcoreapp2.1\DualFramework.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\obj\Debug\netcoreapp2.1\DualFramework.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\obj\Debug\netcoreapp2.1\DualFramework.RazorAssemblyInfo.cs
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\obj\Debug\netcoreapp2.1\DualFramework.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\obj\Debug\netcoreapp2.1\DualFramework.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\bin\Debug\netcoreapp2.1\DualFramework.deps.json
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\bin\Debug\netcoreapp2.1\DualFramework.runtimeconfig.json
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\bin\Debug\netcoreapp2.1\DualFramework.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\bin\Debug\netcoreapp2.1\DualFramework.dll
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\bin\Debug\netcoreapp2.1\DualFramework.pdb
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\obj\Debug\netcoreapp2.1\DualFramework.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\obj\Debug\netcoreapp2.1\DualFramework.dll
+C:\Users\Administrator\source\repos\DualFramework\DualFramework\obj\Debug\netcoreapp2.1\DualFramework.pdb

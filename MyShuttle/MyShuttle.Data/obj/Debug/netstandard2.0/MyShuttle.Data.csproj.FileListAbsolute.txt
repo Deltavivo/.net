@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\MyShuttle\MyShuttle.Data\bin\Debug\netstandard2.0\MyShuttle.Data.deps.json
+C:\Users\Administrator\source\repos\MyShuttle\MyShuttle.Data\bin\Debug\netstandard2.0\MyShuttle.Data.dll
+C:\Users\Administrator\source\repos\MyShuttle\MyShuttle.Data\obj\Debug\netstandard2.0\MyShuttle.Data.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\MyShuttle\MyShuttle.Data\obj\Debug\netstandard2.0\MyShuttle.Data.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MyShuttle\MyShuttle.Data\obj\Debug\netstandard2.0\MyShuttle.Data.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\MyShuttle\MyShuttle.Data\obj\Debug\netstandard2.0\MyShuttle.Data.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\MyShuttle\MyShuttle.Data\bin\Debug\netstandard2.0\MyShuttle.Data.pdb
+C:\Users\Administrator\source\repos\MyShuttle\MyShuttle.Data\bin\Debug\netstandard2.0\MyShuttle.Model.dll
+C:\Users\Administrator\source\repos\MyShuttle\MyShuttle.Data\bin\Debug\netstandard2.0\MyShuttle.Model.pdb
+C:\Users\Administrator\source\repos\MyShuttle\MyShuttle.Data\obj\Debug\netstandard2.0\MyShuttle.Data.csproj.CopyComplete
+C:\Users\Administrator\source\repos\MyShuttle\MyShuttle.Data\obj\Debug\netstandard2.0\MyShuttle.Data.dll
+C:\Users\Administrator\source\repos\MyShuttle\MyShuttle.Data\obj\Debug\netstandard2.0\MyShuttle.Data.pdb
