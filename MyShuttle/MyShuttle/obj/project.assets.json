@@ -1690,10 +1690,10 @@
           "build/netcoreapp2.0/Microsoft.EntityFrameworkCore.Design.props": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.InMemory/2.1.1": {
+      "Microsoft.EntityFrameworkCore.InMemory/2.1.2": {
         "type": "package",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "2.1.1"
+          "Microsoft.EntityFrameworkCore": "2.1.2"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.EntityFrameworkCore.InMemory.dll": {}
@@ -6034,15 +6034,15 @@
         "microsoft.entityframeworkcore.design.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.InMemory/2.1.1": {
-      "sha512": "eX6plbREvKOq06f2XU6n4ZCSpTXjS9khC9jNH4BeyG/m2WXbYnpTW3zX6RT/UCM8wVqO9U3YUr7QbTsuOysK7w==",
+    "Microsoft.EntityFrameworkCore.InMemory/2.1.2": {
+      "sha512": "MLR71xMIrz2Gspul4a2P7q3x763hIyVg3f3oYPFx03/d0pKTgPd1U06R2nKvus6P54xgTh5t7gckEimffgZh6g==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.inmemory/2.1.1",
+      "path": "microsoft.entityframeworkcore.inmemory/2.1.2",
       "files": [
         ".signature.p7s",
         "lib/netstandard2.0/Microsoft.EntityFrameworkCore.InMemory.dll",
         "lib/netstandard2.0/Microsoft.EntityFrameworkCore.InMemory.xml",
-        "microsoft.entityframeworkcore.inmemory.2.1.1.nupkg.sha512",
+        "microsoft.entityframeworkcore.inmemory.2.1.2.nupkg.sha512",
         "microsoft.entityframeworkcore.inmemory.nuspec"
       ]
     },
@@ -12249,6 +12249,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.AspNetCore.App >= 2.1.1",
+      "Microsoft.EntityFrameworkCore.InMemory >= 2.1.2",
       "Microsoft.NETCore.App >= 2.1.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.1.1",
       "MyShuttle.Data >= 1.0.0",
@@ -12308,6 +12309,10 @@
             "target": "Package",
             "version": "[2.1.1, )",
             "autoReferenced": true
+          },
+          "Microsoft.EntityFrameworkCore.InMemory": {
+            "target": "Package",
+            "version": "[2.1.2, )"
           },
           "Microsoft.NETCore.App": {
             "target": "Package",

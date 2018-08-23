@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "4d4e50c623fed1a6577638cd86d89f1099e1dbd2"
+    "signature": "421de6e87461e0d11c9e11fb49f24836b3d589e7"
   },
   "compilationOptions": {
     "defines": [
@@ -25,6 +25,7 @@
       "MyShuttle.Web/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.App": "2.1.1",
+          "Microsoft.EntityFrameworkCore.InMemory": "2.1.2",
           "Microsoft.NETCore.App": "2.1.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.1.1",
           "MyShuttle.Data": "1.0.0",
@@ -140,6 +141,20 @@
         }
       },
       "Microsoft.EntityFrameworkCore.Analyzers/2.1.2": {},
+      "Microsoft.EntityFrameworkCore.InMemory/2.1.2": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.1.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.EntityFrameworkCore.InMemory.dll": {
+            "assemblyVersion": "2.1.2.0",
+            "fileVersion": "2.1.2.18207"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.EntityFrameworkCore.InMemory.dll": {}
+        }
+      },
       "Microsoft.EntityFrameworkCore.Relational/2.1.2": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "2.1.2"
@@ -864,7 +879,7 @@
           "Microsoft.EntityFrameworkCore.Abstractions": "2.1.2",
           "Microsoft.EntityFrameworkCore.Analyzers": "2.1.2",
           "Microsoft.EntityFrameworkCore.Design": "2.1.1",
-          "Microsoft.EntityFrameworkCore.InMemory": "2.1.1",
+          "Microsoft.EntityFrameworkCore.InMemory": "2.1.2",
           "Microsoft.EntityFrameworkCore.Relational": "2.1.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.1.2",
           "Microsoft.EntityFrameworkCore.Tools": "2.1.1",
@@ -1997,15 +2012,6 @@
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.dll": {}
-        },
-        "compileOnly": true
-      },
-      "Microsoft.EntityFrameworkCore.InMemory/2.1.1": {
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "2.1.2"
-        },
-        "compile": {
-          "lib/netstandard2.0/Microsoft.EntityFrameworkCore.InMemory.dll": {}
         },
         "compileOnly": true
       },
@@ -3581,6 +3587,13 @@
       "path": "microsoft.entityframeworkcore.analyzers/2.1.2",
       "hashPath": "microsoft.entityframeworkcore.analyzers.2.1.2.nupkg.sha512"
     },
+    "Microsoft.EntityFrameworkCore.InMemory/2.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MLR71xMIrz2Gspul4a2P7q3x763hIyVg3f3oYPFx03/d0pKTgPd1U06R2nKvus6P54xgTh5t7gckEimffgZh6g==",
+      "path": "microsoft.entityframeworkcore.inmemory/2.1.2",
+      "hashPath": "microsoft.entityframeworkcore.inmemory.2.1.2.nupkg.sha512"
+    },
     "Microsoft.EntityFrameworkCore.Relational/2.1.2": {
       "type": "package",
       "serviceable": true,
@@ -4500,13 +4513,6 @@
       "sha512": "sha512-/kmRSJHgtcng6eNsy7ab3Ac2ofqqoQAZTiTPMKlLaD6WaEG0t5KJuj71/jAMo9LGgaeKGMI0m5wmG+LsIAlaSA==",
       "path": "microsoft.entityframeworkcore.design/2.1.1",
       "hashPath": "microsoft.entityframeworkcore.design.2.1.1.nupkg.sha512"
-    },
-    "Microsoft.EntityFrameworkCore.InMemory/2.1.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-eX6plbREvKOq06f2XU6n4ZCSpTXjS9khC9jNH4BeyG/m2WXbYnpTW3zX6RT/UCM8wVqO9U3YUr7QbTsuOysK7w==",
-      "path": "microsoft.entityframeworkcore.inmemory/2.1.1",
-      "hashPath": "microsoft.entityframeworkcore.inmemory.2.1.1.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore.Tools/2.1.1": {
       "type": "package",
