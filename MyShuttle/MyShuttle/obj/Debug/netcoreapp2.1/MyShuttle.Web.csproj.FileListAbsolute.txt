@@ -23,6 +23,9 @@ C:\Users\Administrator\source\repos\MyShuttle\MyShuttle\obj\Debug\netcoreapp2.1\
 C:\Users\Administrator\source\repos\MyShuttle\MyShuttle\obj\Debug\netcoreapp2.1\MyShuttle.Web.TagHelpers.output.cache
 C:\Users\Administrator\source\repos\MyShuttle\MyShuttle\obj\Debug\netcoreapp2.1\MyShuttle.Web.RazorCoreGenerate.cache
 C:\Users\Administrator\source\repos\MyShuttle\MyShuttle\obj\Debug\netcoreapp2.1\Razor\Views\CarrierList\Index.g.cshtml.cs
-C:\Users\Administrator\source\repos\MyShuttle\MyShuttle\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
 C:\Users\Administrator\source\repos\MyShuttle\MyShuttle\obj\Debug\netcoreapp2.1\MyShuttle.Web.RazorTargetAssemblyInfo.cs
 C:\Users\Administrator\source\repos\MyShuttle\MyShuttle\obj\Debug\netcoreapp2.1\MyShuttle.Web.Views.pdb
+C:\Users\Administrator\source\repos\MyShuttle\MyShuttle\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Administrator\source\repos\MyShuttle\MyShuttle\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CarrierListPartial.g.cshtml.cs
+C:\Users\Administrator\source\repos\MyShuttle\MyShuttle\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_RegisterCarrierForm.g.cshtml.cs
+C:\Users\Administrator\source\repos\MyShuttle\MyShuttle\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SearchPartial.g.cshtml.cs
